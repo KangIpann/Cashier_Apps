@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333506929128",
+    "project_id": "kasir-cafe-joko",
+    "storage_bucket": "kasir-cafe-joko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333506929128:android:7e2dcf617c5df8a30e845d",
+        "android_client_info": {
+          "package_name": "com.example.nyobaukl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333506929128-6jr1e2d809tm642fgtlj5l968ikp7vcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzDEnO3ySPF5WqDp3eZAh4a21Tlxvd6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333506929128-6jr1e2d809tm642fgtlj5l968ikp7vcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
